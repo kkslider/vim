@@ -1,4 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8'
-let g:netrw_dirhist_2='/Users/benjaminlee/.vim/bundle'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8/src/main/apps/Manager/components/Suppliers'
+let g:netrw_dirhist_2='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8/src/main/apps/Manager/components/Suppliers/code'
+let g:netrw_dirhist_3='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8/src/main/apps/Manager/components/Suppliers'
+let g:netrw_dirhist_4='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8/src/main/apps/Manager/components'
+let g:netrw_dirhist_5='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8/src/main/apps/Manager/components/Documents'
+let g:netrw_dirhist_6='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8/src/main/apps/Manager/components'
+let g:netrw_dirhist_7='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8/src/main/apps/Manager/components/Suppliers'
+let g:netrw_dirhist_8='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8/src/main/apps/Manager/components/Suppliers/pages'
+let g:netrw_dirhist_9='/Users/benjaminlee/Tradeshift/dev_env/Financing-C8/src/main/apps/Manager/components/Suppliers/pages/suppliers'
