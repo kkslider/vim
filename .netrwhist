@@ -1,11 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/benjaminlee/Tradeshift/dev_env/Backend-Conversions'
-let g:netrw_dirhist_2='/Users/benjaminlee/Tradeshift/dev_env/Backend-Conversions/src'
-let g:netrw_dirhist_3='/Users/benjaminlee/Tradeshift/dev_env/Backend-Conversions/src/main'
-let g:netrw_dirhist_4='/Users/benjaminlee/Tradeshift/dev_env/Backend-Conversions/src/main/java'
-let g:netrw_dirhist_5='/Users/benjaminlee/Tradeshift/dev_env/Backend-Conversions/src/main/java/com'
-let g:netrw_dirhist_6='/Users/benjaminlee/Tradeshift/dev_env/Backend-Conversions/src/main/java/com/tradeshift'
-let g:netrw_dirhist_7='/Users/benjaminlee/Tradeshift/dev_env/Backend-Conversions/src/main/java/com/tradeshift/documents'
-let g:netrw_dirhist_8='/Users/benjaminlee/Tradeshift/dev_env/Backend-Conversions/src/main/java/com/tradeshift/documents/conversion'
-let g:netrw_dirhist_9='/Users/benjaminlee/Tradeshift/dev_env'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/benjaminlee/Tradeshift/dev_env'
